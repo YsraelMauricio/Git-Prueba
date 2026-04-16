@@ -1,3 +1,4 @@
+#Cambio en El_Ahoracado
 from random import choice
 
 #Palabra secreta
