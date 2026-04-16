@@ -37,10 +37,10 @@ while numero_intentos > 1:
         contador_intentos += 1
 
     elif numero_elegido == numero_pensado:
-        print(f"Respuesta correcta! ganaste en tu intento {contador_intentos} felicidades")
+        print(f"Respuesta correcta! GANASTE en tu intento {contador_intentos} felicidades")
         break
 else:
-    print("Lo siento, perdiste! el numero secreto era {}".format(numero_pensado))
+    print("Lo siento, PERDISTE! el numero secreto era {}".format(numero_pensado))
 
 
 
