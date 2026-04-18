@@ -1,4 +1,4 @@
-#Change after login quiero conflicto
+#Change after login v2
 from random import randint
 
 nombre = input("Ingrese su nombre: ")
